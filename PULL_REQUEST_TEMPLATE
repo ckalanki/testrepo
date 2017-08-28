@@ -2,7 +2,7 @@
 _To create a PR template with standard format for providing the problem statement, solution and checklist_
 
 ## Solution:
-_Created a stand format for providing the problem statement, solution, references and checklist_
+_Created a standard format for providing the problem statement, solution, references and checklist_
 
 #### Open Questions/Comments and Pre-Merge TODOs:
 - How will we record checklist responses in case of multiple assignees and reviewers?
@@ -16,7 +16,7 @@ _Created a stand format for providing the problem statement, solution, reference
 - [] I have verified sonar violations on local box to ensure PR builder does not fails.
 - [] I have written Junit test cases to cover atleast 60% of new code.
 - [] I have requested review from an SME if my code impacts other functionality/component.
-- [] I have followed the commit convention: <<defect/userstory>>:<<comment>>.
+- [] I have followed the commit convention: US1234:comment or DE123:comment
 - [] I have added the reviewers and assignee for merging the PR.
 - [] I have added the relevant documentation in Wiki and updated in UserStory.
 
